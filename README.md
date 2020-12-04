@@ -6,7 +6,13 @@ Puedes llevarte un Oxógono portátil en tus paseos por la ciudad, en tus rutas 
 
 ## Oxógono Portátil
 
+Este es nuestro medidor portátil. Con él podremos pasear por la ciudad y ver la contaminación a la que nos hemos visto expuestas volcando los datos en la página web.
+
 Oxógono_Portatil.ino
+Oxogono_Portatil_Carcasa.stl
+Oxogono_Portatil_Corte_metacrilato.dxf
+
+(Ambos diseños de corte laser e impresión 3D han sido desarrollados por Jorge Ruiz @Medialab-Prado)
 
 - Arduino MEGA 2560 https://store.arduino.cc/arduino-mega-2560-rev3
 - Sensor de Partículas Volátiles: PMS5003 https://www.adafruit.com/product/3686
@@ -26,6 +32,8 @@ Los archivos generados tienen el siguiente formato:
 - || Satelites || Número de satélites disponibles involucrados en los datos recibidos
 
 ## Gran Oxógono
+
+El Gran Oxógono es un medidor fijo, que visualiza con luz y color cómo de amable es el aire que respiramos en ese lugar. Hemos construido el prototipo en Medialab Prado, a través de talleres colaborativos y en colaboración con UMBRAL: https://www.medialab-prado.es/actividades/taller-de-construccion-de-oxogonos-medidores-de-la-calidad-del-aire-creando-el 
 
 Gran_Oxogono.ino
 
