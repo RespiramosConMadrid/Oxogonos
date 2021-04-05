@@ -44,3 +44,7 @@ El Gran Oxógono es un medidor fijo, que visualiza con luz y color cómo de amab
 - Resistencia 470 Ohms
 - 4 x Pilas AA
 - Diodo Zener
+
+[Respiramos_con_Madrid_10MB.pdf](https://github.com/RespiramosConMadrid/Oxogonos/files/6259516/Respiramos_con_Madrid_10MB.pdf)
+<img width="650" alt="Captura de pantalla 2021-03-31 a las 11 42 42" src="https://user-images.githubusercontent.com/22861753/113603558-63214780-9644-11eb-9a80-3428e09671dc.png">
+<img width="650" alt="Captura de pantalla 2021-03-31 a las 11 42 50" src="https://user-images.githubusercontent.com/22861753/113603591-6ae0ec00-9644-11eb-80ee-8bd18ca8b562.png">
